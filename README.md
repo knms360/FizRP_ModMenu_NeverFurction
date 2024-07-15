@@ -1,4 +1,4 @@
-# FizRP_ModMenu_NeverFurction
+# フィズとにじいろの星_ModMenu_NeverFurction
 # This modmenu is based on version 0.4! It is compatible with other versions, but may not work in the future.
 ## How To Use
 Please put BepInEx etc... in the folder containing "フィズとにじいろの星.exe".
@@ -8,6 +8,14 @@ Like this:
 Launch
 
 F11 to Open Modmenu
+## 使い方
+"フィズとにじいろの星.exe"があるフォルダにBepInExフォルダ...などを入れていく
+入れるとこんな感じ:
+![image](https://github.com/user-attachments/assets/c560da54-4ecb-42ac-9158-ea5101899ded)
+
+起動
+
+F11で開きます
 ## Furction Function
 Super Hammer(Cyan)(It may not work with versions other than 0.4.)
 Anywere Door(It may not work with versions other than 0.4.)
