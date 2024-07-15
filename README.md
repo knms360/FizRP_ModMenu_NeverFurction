@@ -4,7 +4,9 @@
 Please put BepInEx etc... in the folder containing "フィズとにじいろの星.exe".
 Like this:
 ![image](https://github.com/user-attachments/assets/c560da54-4ecb-42ac-9158-ea5101899ded)
+
 Launch
+
 F12 to Open Modmenu
 ## Furction Function
 Super Hammer(Cyan)(It may not work with versions other than 0.4.)
