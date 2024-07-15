@@ -15,7 +15,7 @@ namespace Never_Furction.Patches
         [HarmonyPrefix]
         static void playersizepatch(ref List<PlayerBase> ___players, ref int ___charactorIndex)
         {
-            Debug.Log(___players[___charactorIndex].transform.localScale);
+            //Debug.Log(___players[___charactorIndex].transform.localScale);
             if (Never_FurctionPlugin.playersizechangechk.Value)
             {
                 float size = Never_FurctionPlugin.size.Value;
