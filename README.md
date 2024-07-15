@@ -7,7 +7,7 @@ Like this:
 
 Launch
 
-F12 to Open Modmenu
+F11 to Open Modmenu
 ## Furction Function
 Super Hammer(Cyan)(It may not work with versions other than 0.4.)
 Anywere Door(It may not work with versions other than 0.4.)
