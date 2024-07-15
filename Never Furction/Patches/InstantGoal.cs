@@ -19,7 +19,7 @@ namespace Never_Furction.Patches
         /// Patches the Player Awake method with prefix code.
         /// </summary>
         /// <param name="__instance"></param>
-        [HarmonyPatch("Update")]
+/*        [HarmonyPatch("Update")]
         [HarmonyPrefix]
         static void instantgoalpatch(ref ActionSceneManager ___actionSceneManager, ref int ___stageIndex, ref int ___actIndex, ref string ___autoSceneName, ref bool ___autoSceneLoad, ref UnityEvent ___events_オ\u30FCブ獲得後イベント, ref bool ___actCleard, ref UnityEvent ___events_オ\u30FCブ獲得時イベント, ref Component __instance)
         {
@@ -42,6 +42,6 @@ namespace Never_Furction.Patches
         /// <summary>
         /// Patches the Player Awake method with postfix code.
         /// </summary>
-        /// <param name="__instance"></param>
+        /// <param name="__instance"></param>*/
     }
 }
