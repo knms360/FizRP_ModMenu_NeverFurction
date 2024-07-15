@@ -40,7 +40,7 @@
 
 # English
 
-# Phiz and the Rainbow Stars_ModMenu_NeverFurction
+# Fiz_and_Rainbow_Stars_ModMenu_NeverFurction
 
 # This ModMenu is based on version 0.4! It is compatible with other versions but may not work in the future.
 
