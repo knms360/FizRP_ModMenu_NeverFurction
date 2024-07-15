@@ -59,7 +59,7 @@
 - Super Hammer (Cyan) (May not work with versions other than 0.4)
 - Anywhere Door (May not work with versions other than 0.4)
 - Fix Parameter
-- Instant Win (experimental)
+- Instant Win (Currently unavailable)
 - The World
 - Turbo X Key
 
