@@ -40,7 +40,7 @@
 
 # English
 
-# Fiz_and_Rainbow_Stars_ModMenu_NeverFurction
+# Fiz and the Rainbow Planet_ModMenu_NeverFurction
 
 # This ModMenu is based on version 0.4! It is compatible with other versions but may not work in the future.
 
