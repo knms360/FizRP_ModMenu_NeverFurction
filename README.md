@@ -24,3 +24,5 @@ Infinity Jump
 Jump Power
 Set Knockback
 Speed Hack
+## Credit
+This Modmenu uses Bepinex. Thanks to the developers of Bepinex and BepInEx.ConfigurationManager.
