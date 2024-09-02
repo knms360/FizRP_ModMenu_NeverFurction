@@ -46,6 +46,8 @@
 
 ## クレジット
 
+オリジナル開発者のYoshi3110に感謝します。
+
 このModMenuはBepInExを使用しています。BepInExおよびBepInEx.ConfigurationManagerの開発者に感謝します。
 
 # English
@@ -96,4 +98,7 @@
 
 ## Credit
 
+Thanks to Yoshi3110 for the original game.
+
 This ModMenu uses BepInEx. Thanks to the developers of BepInEx and BepInEx.ConfigurationManager.
+
