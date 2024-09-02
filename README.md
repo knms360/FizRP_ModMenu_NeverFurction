@@ -7,17 +7,22 @@
 ## 使い方
 
 1. タスクマネージャーを起動して、アプリケーションが32ビットであるか調べてください。
+   
    ![タスクマネージャーの画面](https://github.com/user-attachments/assets/fc0a052c-a5d3-4891-823d-6066063c9a09)
+   
    32bitの場合→x86フォルダの中身をコピー
+   
    何もない場合→x64フォルダの中身をコピー
 
 3. BepInExとその他の必要なファイルを「フィズとにじいろの星.exe」があるフォルダに配置します。
+   
    フォルダ構成は次のようになります：
+   
    ![フォルダ構成](https://github.com/user-attachments/assets/c560da54-4ecb-42ac-9158-ea5101899ded)
 
-4. ゲームを起動します。
+5. ゲームを起動します。
 
-5. F11キーを押してModMenuを開きます。
+6. F11キーを押してModMenuを開きます。
 
 ## 機能
 
@@ -52,17 +57,22 @@
 ## How To Use
 
 1. Open Task Manager and check if your application is 32-bit.
+   
    ![Task manager](https://github.com/user-attachments/assets/fc0a052c-a5d3-4891-823d-6066063c9a09)
+   
    If 32bit, copy the contents of the x86 folder.
+   
    If nothing is displayed, copy the contents of the x64 folder.
 
 3. Place BepInEx and other necessary files in the folder containing "フィズとにじいろの星.exe" (Phiz and the Rainbow Stars.exe).
+   
    The folder structure should look like this:
+   
    ![Folder Structure](https://github.com/user-attachments/assets/c560da54-4ecb-42ac-9158-ea5101899ded)
 
-4. Launch the game.
+5. Launch the game.
 
-5. Press F11 to open the ModMenu.
+6. Press F11 to open the ModMenu.
 
 ## Features
 
