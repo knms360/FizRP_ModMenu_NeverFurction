@@ -2,7 +2,9 @@
 
 # フィズとにじいろの星_ModMenu_NeverFurction
 
-# このModMenuはバージョン0.4に基づいています！他のバージョンでも互換性がありますが、将来的に動作しない可能性があります。
+# このmodmenuは非対応になりました。https://github.com/knms360/LSD-Furction で対応をお待ちください
+
+このModMenuはバージョン0.4に基づいています
 
 ## 使い方
 
